@@ -43,4 +43,4 @@ sudo apt install git
 git clone https://github.com/AdnanHodzic/auto-cpufreq.git
 cd auto-cpufreq && sudo ./auto-cpufreq-installer
 
-sudo apt install pavucontrol
+echo("run sudo auto-cpufreq --install")
