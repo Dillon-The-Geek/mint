@@ -13,3 +13,9 @@ conky with github config
 adapto-noko cinnamon theme
 
 dark blue rofi theme
+
+disable menu bar and scroll bar on terminal 
+
+make neofetch launch with bash
+
+add -LAH to ls alias
